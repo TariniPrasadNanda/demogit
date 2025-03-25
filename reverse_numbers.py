@@ -6,3 +6,5 @@ for j in L:
     x1.insert(0,j)
 
 print(x1)
+
+print(str(x1))
